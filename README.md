@@ -5,5 +5,10 @@
 Начинаем работу со скриптом.
 
 ```sh
-git clone 
-node app
+apt update
+apt upgrage
+pkg install python
+git clone https://github.com/Protect916/youtube-downloader-pyhon.git
+cd youtube-downloader-pyhon
+pip install youtube-dl pafy
+python y2b_downloader.py 
